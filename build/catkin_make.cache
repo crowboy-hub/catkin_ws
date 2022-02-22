@@ -1,0 +1,2 @@
+octomap_mapping/octomap_mapping:octomap_mapping/octomap_server
+-DCATKIN_DEVEL_PREFIX=/home/jackdaw/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jackdaw/catkin_ws/install -G Unix Makefiles
